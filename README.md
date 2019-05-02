@@ -1,4 +1,4 @@
-
+[![Build Status](https://vstsjackywu.visualstudio.com/contosoair/_apis/build/status/jacwu.ContosoAir?branchName=master)](https://vstsjackywu.visualstudio.com/contosoair/_build/latest?definitionId=20&branchName=master)
 
 
 # Microsoft.Github CI Demo
